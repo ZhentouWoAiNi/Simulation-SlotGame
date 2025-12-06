@@ -193,8 +193,9 @@ class _SlotMachinePageState extends State<SlotMachinePage> with SingleTickerProv
       bool isJackpot = false;
       
       if (bombCount > 0) {
-        if (bombCount == 1) amountChange = -5000;
-        else if (bombCount == 2) amountChange = -10000;
+        if (bombCount == 1) {
+          amountChange = -5000;
+        } else if (bombCount == 2) amountChange = -10000;
         else if (bombCount == 3) amountChange = -_randomMaxLoss();
         status = "TERKENA BOM! ${_formatCurrency(amountChange)}";
       } else if (s1 == s2 && s2 == s3) {
