@@ -1,16 +1,6 @@
-# flutter_application_4
+Slot Game Simulation
 
-A new Flutter project.
+This is my first project, it is a slot game simulation intended for educational purposes.
+To teach people that slot games like this can be controlled according to the wishes of the game owner.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feature is basic
