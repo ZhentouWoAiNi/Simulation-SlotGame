@@ -1,0 +1,20 @@
+name: flutter_application_4
+description: A new Flutter project.
+publish_to: 'none' 
+
+environment:
+  # Pastikan batas bawah SDK sudah di atas 3.0.0
+  sdk: '>=3.0.0 <4.0.0'
+  
+dependencies: # <--- BARIS INI DIMULAI DARI PALING KIRI
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0 # <--- Pastikan intl sejajar dengan flutter:
+
+dev_dependencies: # <--- BARIS INI JUGA DIMULAI DARI PALING KIRI
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter: # <--- BARIS INI JUGA DIMULAI DARI PALING KIRI
+  uses-material-design: true
