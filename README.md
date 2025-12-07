@@ -12,3 +12,6 @@ This first image is the initial view, very simple.
 This second image is the top up page, again the appearance is simple
 <img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/bea9877a-2b02-4240-8d57-20ec3ebbfffa" />
 
+NOTE!!!
+THIS IS FOR EDUCATIONAL PURPOSES ONLY.
+
