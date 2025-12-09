@@ -1,4 +1,4 @@
-*Name Apps*
+*Project Name*
 ---
 Slot Game Simulation
 
